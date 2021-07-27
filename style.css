@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body{
+    background: black;
+    font-family: 'Lobster', cursive;
+}
+.local:active{
+    background: rgb(48, 223, 170);
+}
+.local:hover{
+    background: rgb(48, 223, 170);
+}
+.card:hover{
+    transform: translateY(-20px);
+    box-shadow: 0 12px 16px;
+}
